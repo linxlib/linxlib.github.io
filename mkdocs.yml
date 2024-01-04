@@ -5,8 +5,8 @@ site_author: linx
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/favicon.ico
+    favicon: assets/meta/favicon.ico
     custom_dir: overrides
     font:
         text: Ubuntu
